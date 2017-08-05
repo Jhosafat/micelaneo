@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "micelaneo", "micelaneo\micelaneo.csproj", "{6C1EA5EB-7987-42DF-A54C-55617834A1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Release|iPhone.Build.0 = Release|iPhone
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6C1EA5EB-7987-42DF-A54C-55617834A1A4}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+	EndGlobalSection
+EndGlobal
